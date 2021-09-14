@@ -1,4 +1,4 @@
-# Banana Talk
+# Banana Talk 🍌
 
 ## Wants to talk with Banana? Let's Try this Banana Translator App!
 Have Fun!!
